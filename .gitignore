@@ -1,0 +1,16 @@
+# Pnpm
+
+
+# TS
+tsconfig.tsbuildinfo
+
+# Workspace related
+node_modules
+temp
+.env
+.env.*.local
+
+# Mac system files
+.DS_Store
+.history
+.npmrc
