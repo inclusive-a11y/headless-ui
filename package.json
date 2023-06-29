@@ -1,5 +1,5 @@
 {
-  "name": "@inclusive/headless-ui",
+  "name": "@inclusive-a11y/headless-ui",
   "version": "0.0.0",
   "description": "A framework agnostic headless UI library that provides the accessibility and behavior of interactive UI elements without the visual styles.",
   "main": "index.js",
